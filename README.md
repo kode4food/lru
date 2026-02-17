@@ -1,5 +1,7 @@
 # lru
 
+![Build Status](https://github.com/kode4food/lru/actions/workflows/build.yml/badge.svg) [![Code Coverage](https://qlty.sh/gh/kode4food/projects/lru/coverage.svg)](https://qlty.sh/gh/kode4food/projects/lru) [![Maintainability](https://qlty.sh/gh/kode4food/projects/lru/maintainability.svg)](https://qlty.sh/gh/kode4food/projects/lru) [![GitHub](https://img.shields.io/github/license/kode4food/lru)](https://github.com/kode4food/lru)
+
 A thread-safe LRU (Least Recently Used) cache implementation for Go with generic value support.
 
 ## Features
